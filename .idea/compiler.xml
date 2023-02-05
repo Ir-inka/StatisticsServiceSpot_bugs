@@ -9,5 +9,8 @@
         <module name="StatisticsServiceSpot_bugs" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="StatisticsServiceSpotBugs" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
